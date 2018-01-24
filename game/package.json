@@ -1,6 +1,7 @@
 {
   "name": "game",
   "version": "0.1.0",
+  "homepage": "https://isabellaambrosio.github.io/memory-game/"
   "private": true,
   "dependencies": {
     "gh-pages": "^1.1.0",
